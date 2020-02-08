@@ -10,7 +10,7 @@
 - aaa
 - bbb
 
-#### 連絡先
+#### リンク
 
 - Twitter: [@ubnqf](https://twitter.com/ubnqf)
 - Blog: [ubnqfのブログ](http://ubnqf.hatenablog.com/)（あまり更新しないかも）
