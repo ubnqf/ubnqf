@@ -7,8 +7,8 @@
 
 ### 資料置き場
 
-- ノート
-- スライド
+- [ノート](https://ubnqf.github.io/note/note)
+- [スライド](https://ubnqf.github.io/slide/slide)
 
 #### リンク
 
