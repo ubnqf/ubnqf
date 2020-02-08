@@ -10,4 +10,4 @@
 ## 連絡先
 - Twitter: [@ubnqf](https://twitter.com/ubnqf)
 
-![Nene-cchi](https://github.com/ubnqf/ubnqf.github.io/tree/master/images/kawaii.jpg)
+![Nene-cchi](https://raw.github.com/ubnqf/ubnqf.github.io/images/kawaii.jpg "kawaii")
