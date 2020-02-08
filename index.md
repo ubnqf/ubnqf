@@ -5,7 +5,7 @@
 - 仕事：研究
 - 興味：グラフ理論/物理/ベイズ統計/幾何
 ## 資料置き場
-- aaa
+- aaaa
 - bbb
 ## 連絡先
 - Twitter: [@ubnqf](https://twitter.com/ubnqf)
