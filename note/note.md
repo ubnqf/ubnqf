@@ -5,3 +5,6 @@
   - ホッジ分解に基づいたグラフの頂点の順位付け手法 (HodgeRank) を理解するためにまとめたノート．上記の「単体複体のラプラシアン」ノートと重複が多い．
 - [変分ベイズ](https://drive.google.com/file/d/1LF5WkSUKeE2jYDDMDeprHFbEU1oXaDQk/view?usp=sharing)
   - 渡辺ベイズ勉強会での発表（担当箇所：5.2節）のためにまとめたノート．
+
+
+[戻る](https://ubnqf.github.io)
