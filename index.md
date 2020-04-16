@@ -1,7 +1,7 @@
 <head>
-<meta name="twitter:title" content="ubnqf's HP" />
+<meta name="twitter:title" content="test用HP" />
 <meta name="twitter:description" content="リンクプレビューの表示テスト w/ twitter cards" />
-<meta property="og:title" content="ubnqf's HP" />
+<meta property="og:title" content="test用HP" />
 <meta property="og:description" content="リンクプレビューの表示テスト w/ open graph" />
 </head>
 
